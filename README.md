@@ -1,5 +1,5 @@
 # coin_calculator
-Program is based on greedy algorithm.
+#### Program is based on greedy algorithm.
 ### Greedy algorithm
 Greedy is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. So the problems where choosing locally optimal also leads to global solution are best fit for Greedy.
 
